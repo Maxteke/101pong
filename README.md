@@ -1,4 +1,5 @@
 make
+
 ./sokoban map
 
-Put the cube 'X' on the target 'O'.
+Push the cube 'X' with your player 'P' on the target 'O'.
